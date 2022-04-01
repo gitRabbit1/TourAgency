@@ -31,7 +31,7 @@
 			      <li class="nav-item">
 			        <div class="dropdown">
 					  <button type="button" class="btn btn-dark dropdown-toggle" data-bs-toggle="dropdown">
-					    Dashboard
+					    Admin Dashboard
 					  </button>
 					  <ul class="dropdown-menu">
 					    <li><a class="dropdown-item" href="/dashboard/tours">Tour Management</a></li>
